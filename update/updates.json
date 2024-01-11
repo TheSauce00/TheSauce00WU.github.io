@@ -1,9 +1,9 @@
 {
   "win": {
-    "sums_url": "NORMALCYWebUpdater-0.01-win.sums", 
+    "sums_url": "https://thesauce00.github.io/TheSauce00WU.github.io/update/NORMALCYWebUpdater-0.01-win.sums", 
     "version": "07e726088174e4eba68cc0eb63b13fcacd6967130295ef785f132c0d199b530d", 
-    "zsync_url": "NORMALCYWebUpdater-0.01-win.zsync", 
-    "json_url": "NORMALCYWebUpdater-0.01-win.update.json", 
+    "zsync_url": "https://thesauce00.github.io/TheSauce00WU.github.io/update/NORMALCYWebUpdater-0.01-win.zsync", 
+    "json_url": "https://thesauce00.github.io/TheSauce00WU.github.io/update/NORMALCYWebUpdater-0.01-win.update.json", 
     "pretty_version": "0.01", 
     "sums_size": 5448, 
     "digest": "2f6f1a36046fd3cd5f3137e4d901e3f1fb3f7171450fd16cbe870df175579203"
