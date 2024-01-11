@@ -1,9 +1,9 @@
 {
   "pc": {
-    "sums_url": "NORMALCYWebUpdater-0.01-pc.sums", 
+    "sums_url": "https://thesauce00.github.io/TheSauce00WU.github.io/NORMALCYWebUpdater-0.01-pc.sums", 
     "version": "a39aef38894094f89adc1a0abbb80f68b4614eb3c1385d13b89d02600379fd60", 
-    "zsync_url": "NORMALCYWebUpdater-0.01-pc.zsync", 
-    "json_url": "NORMALCYWebUpdater-0.01-pc.update.json", 
+    "zsync_url": "https://thesauce00.github.io/TheSauce00WU.github.io/NORMALCYWebUpdater-0.01-pc.zsync", 
+    "json_url": "https://thesauce00.github.io/TheSauce00WU.github.io/NORMALCYWebUpdater-0.01-pc.update.json", 
     "pretty_version": "0.01", 
     "sums_size": 8496, 
     "digest": "d3d6484aa079ab7c680ab805f29ea49ca4c0f01f5e5da54eca6cec9c69a7908d"
