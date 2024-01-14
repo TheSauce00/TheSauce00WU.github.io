@@ -1,11 +1,11 @@
 {
   "win": {
-    "sums_url": "NORMALCYWebUpdater-1.0-win.sums", 
-    "version": "15588a689ec1901ff53e04a20b962680b2211d8ed66595a0104e9212658afc0e", 
-    "zsync_url": "NORMALCYWebUpdater-1.0-win.zsync", 
-    "json_url": "NORMALCYWebUpdater-1.0-win.update.json", 
-    "pretty_version": "1.0", 
+    "sums_url": "NORMALCYWebUpdater-1.5-win.sums", 
+    "version": "41bdf27c91db89f86d9ae7f6641ca78abad0a12653f3bffce2acb12593f39146", 
+    "zsync_url": "NORMALCYWebUpdater-1.5-win.zsync", 
+    "json_url": "NORMALCYWebUpdater-1.5-win.update.json", 
+    "pretty_version": "1.5", 
     "sums_size": 5452, 
-    "digest": "40a1b48dd50b56cc6acbeb0b9e045366f477bb400f0ef0285db93fab2760fa6a"
+    "digest": "eea6f7a6a959d743096c7296fb7ec2db51389bea78f7d5ab6aabef16649640d8"
   }
 }
